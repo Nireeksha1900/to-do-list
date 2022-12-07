@@ -1,0 +1,64 @@
+body {
+    font-family: 'Segoe UI';
+}
+
+h1 {
+    color: rgb(9, 9, 97);
+}
+
+input:checked+label {
+    text-decoration: line-through;
+    pointer-events: none;
+}
+
+
+.progress-bar {
+    width: 0%;
+}
+
+button.btn {
+    float: right;
+}
+
+#navbar {
+    display: none;
+}
+
+#progressFraction {
+    float: right;
+    display: none;
+}
+
+#adf-input {
+    background-color: rgb(157, 189, 236);
+}
+
+.list-group-item {
+    background-color: rgb(157, 189, 236);
+}
+
+#progress {
+    display: none;
+}
+#progressPercent{
+    float: right;
+    display: none;
+}
+
+#duedate {
+    float: right;
+    width: 70px;
+}
+
+#to-do-list {
+    background-image: url("https://i.pinimg.com/originals/a8/2b/45/a82b45ad270b08d3c61f19e559170066.jpg");
+}
+
+
+#clearButton {
+    background-color: rgb(157, 189, 236);
+}
+
+.bi.bi-patch-plus {
+    float: right;
+}
